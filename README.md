@@ -118,5 +118,5 @@ I’m seeking opportunities in **Security Operations Centers (SOC)** and cyberse
 ---
 
 ⭐ “Cybersecurity is not just protection, it’s precision.”  
-📍 **Based in Morocco** | 🌐 **Open to internships in cybersecurity and SOC analysis**
+📍 **Based in Morocco** | 🌐 **Open to internships in cybersecurity **
 
