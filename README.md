@@ -1,6 +1,9 @@
 # 👋 Hello, I'm Abdelhakim Hani  
 <a href="https://www.linkedin.com/in/abdelhakim-hani"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelhakim-hani)
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-7B1FA2?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_TRYHACKME_USERNAME)
+[![Hack The Box](https://img.shields.io/badge/-HackTheBox-101010?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.hackthebox.com/profile/YOUR_HTB_USERNAME)
+[![Cyber Platform](https://img.shields.io/badge/-CyberPlatform-0A84FF?style=for-the-badge&logo=security?logoColor=white)](https://example.com/YOUR_CYBER_PLATFORM_PROFILE)
 🎓 **Cybersecurity Engineering Student** | 💻 **Full Stack Developer** | 🔐 **AI Security Enthusiast**
 
 ---
