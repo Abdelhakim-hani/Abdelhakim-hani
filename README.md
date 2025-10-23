@@ -1,32 +1,82 @@
-# Hello, I'm Abdelhakim Hani
+# 👋 Hello, I'm Abdelhakim Hani  
 <a href="https://www.linkedin.com/in/abdelhakim-hani"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I’m a computer science engineering student specializing in **Cybersecurity**.  
-Passionate about technology, digital defense, and automation, I aim to leverage my skills to protect systems and data from evolving cyber threats.
+🎓 **Cybersecurity Engineering Student** | 💻 **Full Stack Developer** | 🔐 **AI Security Enthusiast**
 
 ---
 
-## 🎯 Objective
-My goal is to join a **Security Operations Center (SOC)** as a **Tier 1 Analyst**, where I can apply my technical expertise in network defense, threat analysis, and security automation to contribute to organizational resilience.
+## 🧩 About Me  
+I’m a computer science engineer specializing in **Cybersecurity** with a strong background in **software development**, **machine learning**, and **network defense**.  
+I’m passionate about creating intelligent, secure systems and continuously improving my technical expertise through research and practical projects.
+
+I thrive at the intersection of **AI, automation, and cybersecurity**, focusing on proactive threat detection and system hardening.  
+Currently, I’m completing my **engineering degree in Cybersecurity** at the **Université Internationale de Rabat (UIR)**.
+
+---
+
+## 🎯 Objective  
+I’m seeking opportunities in **Security Operations Centers (SOC)** and cybersecurity engineering teams, where I can apply my technical knowledge in **network monitoring, vulnerability analysis, and automation** to strengthen information system security.
+
+---
+
+## 💼 Experience & Projects  
+
+### 🧱 Full Stack Developer — Copag (Menara Holding)  
+**July 2024 – September 2024 | 2 months**  
+- Developed a **web and mobile commercial management system** using **Angular** (frontend) and **Spring Boot** (backend).  
+- Designed the full UML architecture (use case, class, sequence diagrams).  
+- Managed the project lifecycle from conception to functional delivery.  
+
+**Tech stack:** Angular, Spring Boot, MySQL, UML  
+
+---
+
+### 🧠 Intelligent XSS Attack Detection System  
+**Academic Project | 2025**  
+- Built a **machine learning–based system** for detecting **cross-site scripting (XSS)** attacks.  
+- Implemented **TF-IDF vectorization** and models like **Logistic Regression**, **Random Forest**, **SVM**, and **Deep Learning** (TensorFlow).  
+- Enhanced detection of obfuscated and advanced malicious payloads.
+
+**Tech stack:** Python, TensorFlow, Scikit-learn, Pandas, NumPy  
+
+---
+
+### 🛰️ C2 Architecture and Attack Simulation  
+**Academic Project | 2025**  
+- Designed and deployed a **Command and Control (C2)** architecture using **GNS3**.  
+- Simulated cyberattacks (exploitation, persistence, exfiltration).  
+- Automated attack scenarios with **Python/Bash scripts** and analyzed **network traffic and attack vectors**.
+
+**Tools:** GNS3, Wireshark, Python, Bash, Linux  
+
+---
+
+### 🩺 Medical Image Classification System  
+**Bachelor Final Project | 2022**  
+- Developed a system for **automatic detection of gastrointestinal bleeding** from **Wireless Capsule Endoscopy (WCE)** images.  
+- Used **Convolutional Neural Networks (CNN)** and **Random Forest (RF)** models for classification.  
+- Delivered a high-accuracy diagnostic model for medical use.
+
+**Tech stack:** Python, TensorFlow, CNN, Scikit-learn  
 
 ---
 
 ## 🧠 Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | [Detection Lab](https://github.com/Abdelhakim-Hani/Detection-Lab) |
-| Network Traffic Monitoring and Attack Detection | [Detection Lab](https://github.com/Abdelhakim-Hani/Detection-Lab) |
-| Security Automation with Shuffle SOAR         | [SOC Automation Lab](https://github.com/Abdelhakim-Hani/SOC-Automation) |
-| Incident Response Planning and Execution      | [SOC Automation Lab](https://github.com/Abdelhakim-Hani/SOC-Automation) |
-| Case Management with TheHive                  | [SOC Automation Lab](https://github.com/Abdelhakim-Hani/SOC-Automation) |
-| Scripting and Automation for Threat Mitigation | [SOC Automation Lab](https://github.com/Abdelhakim-Hani/SOC-Automation) |
+| Skill | Description |
+|-------|--------------|
+| **Network Security** | TCP/IP, HTTP(S), DNS, DHCP, VLAN, VPN, Firewall management |
+| **Penetration Testing & Vulnerability Analysis** | Reconnaissance, exploitation, malware analysis |
+| **System Administration** | Linux & Windows Server setup, hardening, and monitoring |
+| **Development** | Java, Python, JavaScript, TypeScript, HTML, CSS |
+| **Database** | MySQL, PostgreSQL |
+| **Machine Learning & AI** | Deep Learning, CNN, TF-IDF, Scikit-learn, TensorFlow |
 
 ---
 
 ## 🧰 Tools
 
-### **Network**
+### **Network & Security**
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
@@ -59,11 +109,14 @@ My goal is to join a **Security Operations Center (SOC)** as a **Tier 1 Analyst*
 
 ---
 
-## 💻 Projects
-- [Detection Lab](https://github.com/Abdelhakim-Hani/Detection-Lab)
-- [SOC Automation Project](https://github.com/Abdelhakim-Hani/SOC-Automation)
+## 📚 Projects
+- [XSS Detection System](https://github.com/Abdelhakim-Hani/XSS-Detection)
+- [C2 Architecture Simulation](https://github.com/Abdelhakim-Hani/C2-Architecture)
+- [Detection Lab (SOC & SIEM)](https://github.com/Abdelhakim-Hani/Detection-Lab)
+- [Commercial Management App (Copag)](https://github.com/Abdelhakim-Hani/Commercial-Management-App)
 
 ---
 
-⭐ **“Securing today’s data is building tomorrow’s trust.”**  
-📍 Based in Morocco | 🌐 Interested in SOC, Threat Hunting, and Cloud Security
+⭐ “Cybersecurity is not just protection, it’s precision.”  
+📍 **Based in Morocco** | 🌐 **Open to internships in cybersecurity and SOC analysis**
+
