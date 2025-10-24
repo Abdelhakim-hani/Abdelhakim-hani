@@ -1,4 +1,8 @@
-# 👋 Hello, I'm Abdelhakim Hani  
+<!-- Profile Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hello%2C+I'm+Abdelhakim+Hani;Cybersecurity+Engineer+%7C+Full+Stack+Developer;AI+%2B+Automation+%2B+Security+Enthusiast" alt="Typing SVG" />
+</h1>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/abdelhakim-hani" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -17,121 +21,129 @@
   </a>
 </p>
 
-
 ---
 
 ## 🧩 About Me  
-I’m a computer science engineer specializing in **Cybersecurity** with a strong background in **software development**, **machine learning**, and **network defense**.  
-I’m passionate about creating intelligent, secure systems and continuously improving my technical expertise through research and practical projects.
 
-I thrive at the intersection of **AI, automation, and cybersecurity**, focusing on proactive threat detection and system hardening.  
-Currently, I’m completing my **engineering degree in Cybersecurity** at the **Université Internationale de Rabat (UIR)**.
+🎓 I’m a **Computer Science Engineer** specializing in **Cybersecurity**, passionate about  
+creating intelligent, secure systems that blend **AI, automation, and network defense**.  
+Currently completing my **engineering degree at Université Internationale de Rabat (UIR)**.  
+
+💡 I love solving security challenges, designing ML-based detection systems, and contributing to open-source cybersecurity tools.  
 
 ---
 
 ## 🎯 Objective  
-I’m seeking opportunities in **Security Operations Centers (SOC)** and cybersecurity engineering teams, where I can apply my technical knowledge in **network monitoring, vulnerability analysis, and automation** to strengthen information system security.
+Seeking roles in **Security Operations Centers (SOC)** or **Cybersecurity Engineering**, where I can contribute to:
+- 🔍 Threat Detection & Incident Response  
+- 🧰 Vulnerability Management & Network Monitoring  
+- ⚙️ Security Automation using AI  
 
 ---
 
 ## 💼 Experience & Projects  
 
 ### 🧱 Full Stack Developer — Copag (Menara Holding)  
-**July 2024 – September 2024 | 2 months**  
-- Developed a **web and mobile commercial management system** using **Angular** (frontend) and **Spring Boot** (backend).  
-- Designed the full UML architecture (use case, class, sequence diagrams).  
-- Managed the project lifecycle from conception to functional delivery.  
+**July 2024 – September 2024**  
+- Built a full web & mobile **commercial management system** using **Angular** and **Spring Boot**.  
+- Designed **UML architecture** (use case, class, sequence diagrams).  
+- Delivered a fully functional app from concept to deployment.  
 
-**Tech stack:** Angular, Spring Boot, MySQL, UML  
-
----
-
-### 🧠 Intelligent XSS Attack Detection System  
-**Academic Project | 2025**  
-- Built a **machine learning–based system** for detecting **cross-site scripting (XSS)** attacks.  
-- Implemented **TF-IDF vectorization** and models like **Logistic Regression**, **Random Forest**, **SVM**, and **Deep Learning** (TensorFlow).  
-- Enhanced detection of obfuscated and advanced malicious payloads.
-
-**Tech stack:** Python, TensorFlow, Scikit-learn, Pandas, NumPy  
+**Tech:** Angular · Spring Boot · MySQL · UML  
 
 ---
 
-### 🛰️ C2 Architecture and Attack Simulation  
-**Academic Project | 2025**  
-- Designed and deployed a **Command and Control (C2)** architecture using **GNS3**.  
-- Simulated cyberattacks (exploitation, persistence, exfiltration).  
-- Automated attack scenarios with **Python/Bash scripts** and analyzed **network traffic and attack vectors**.
+### 🧠 Intelligent XSS Detection System  
+**Academic Project (2025)**  
+- Built a **machine learning–based XSS attack detector**.  
+- Used **TF-IDF**, **Logistic Regression**, **Random Forest**, **SVM**, and **Deep Learning (TensorFlow)** models.  
+- Enhanced detection of advanced obfuscated payloads.  
 
-**Tools:** GNS3, Wireshark, Python, Bash, Linux  
+**Tech:** Python · TensorFlow · Scikit-learn · Pandas  
+
+---
+
+### 🛰️ Command & Control (C2) Architecture Simulation  
+**Academic Project (2025)**  
+- Designed and simulated a **C2 architecture** with **GNS3**.  
+- Automated cyberattack scenarios via **Python/Bash scripting**.  
+- Analyzed **traffic & threat behavior** using **Wireshark**.  
+
+**Tools:** GNS3 · Wireshark · Python · Bash  
 
 ---
 
 ### 🩺 Medical Image Classification System  
-**Bachelor Final Project | 2022**  
-- Developed a system for **automatic detection of gastrointestinal bleeding** from **Wireless Capsule Endoscopy (WCE)** images.  
-- Used **Convolutional Neural Networks (CNN)** and **Random Forest (RF)** models for classification.  
-- Delivered a high-accuracy diagnostic model for medical use.
+**Bachelor Final Project (2022)**  
+- Developed a CNN-based model for **detecting gastrointestinal bleeding** from **WCE images**.  
+- Combined **CNN** and **Random Forest (RF)** for medical diagnostics.  
 
-**Tech stack:** Python, TensorFlow, CNN, Scikit-learn  
+**Tech:** Python · TensorFlow · CNN · Scikit-learn  
 
 ---
 
-## 🧠 Skills
+## 🧠 Skills  
 
-| Skill | Description |
-|-------|--------------|
+| Category | Key Areas |
+|-----------|------------|
 | **Network Security** | TCP/IP, HTTP(S), DNS, DHCP, VLAN, VPN, Firewall management |
-| **Penetration Testing & Vulnerability Analysis** | Reconnaissance, exploitation, malware analysis |
-| **System Administration** | Linux & Windows Server setup, hardening, and monitoring |
+| **Penetration Testing** | Reconnaissance, exploitation, malware analysis |
+| **System Administration** | Linux/Windows Server hardening, monitoring |
 | **Development** | Java, Python, JavaScript, TypeScript, HTML, CSS |
 | **Database** | MySQL, PostgreSQL |
-| **Machine Learning & AI** | Deep Learning, CNN, TF-IDF, Scikit-learn, TensorFlow |
+| **AI & ML** | Deep Learning, CNN, TF-IDF, Scikit-learn, TensorFlow |
 
 ---
 
-## 🧰 Tools
+## 🧰 Tools  
 
-### **Network & Security**
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+### 🛜 Network & Security
+<div align="center">
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Suricata-EF3B2D?style=for-the-badge&logo=Suricata&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Zeek-777BB4?style=for-the-badge&logo=Zeek&logoColor=white"/>
 </div>
 
-### **Endpoint**
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+### 💻 Endpoint
+<div align="center">
+  <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?style=for-the-badge&logo=Microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Velociraptor-4B275F?style=for-the-badge&logo=Velociraptor&logoColor=white"/>
 </div>
 
-### **SIEM**
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
----
-
-## 🏆 Certifications
-<div>
-<img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CompTIA_Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CompTIA_A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+### 🧾 SIEM
+<div align="center">
+  <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Elastic-005571?style=for-the-badge&logo=Elastic&logoColor=white"/>
 </div>
 
 ---
 
-## 📚 Projects
-- [XSS Detection System](https://github.com/Abdelhakim-Hani/XSS-Detection)
-- [C2 Architecture Simulation](https://github.com/Abdelhakim-Hani/C2-Architecture)
-- [Detection Lab (SOC & SIEM)](https://github.com/Abdelhakim-Hani/Detection-Lab)
-- [Commercial Management App (Copag)](https://github.com/Abdelhakim-Hani/Commercial-Management-App)
+## 🏆 Certifications  
+<div align="center">
+  <img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CompTIA_Network%2B-007ACC?style=for-the-badge&logo=CompTIA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CompTIA_A%2B-4D4D4D?style=for-the-badge&logo=CompTIA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CDSA-006400?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CCD-000080?style=for-the-badge&logoColor=white"/>
+</div>
 
 ---
 
-⭐ “Cybersecurity is not just protection, it’s precision.”  
-📍 **Based in Morocco** | 🌐 **Open to internships in cybersecurity **
+## 📚 Projects  
+🔗 [XSS Detection System](https://github.com/Abdelhakim-Hani/XSS-Detection)  
+🔗 [C2 Architecture Simulation](https://github.com/Abdelhakim-Hani/C2-Architecture)  
+🔗 [Detection Lab (SOC & SIEM)](https://github.com/Abdelhakim-Hani/Detection-Lab)  
+🔗 [Commercial Management App (Copag)](https://github.com/Abdelhakim-Hani/Commercial-Management-App)  
 
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdelhakim-Hani&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelhakim-Hani&theme=radical" alt="GitHub Streak"/>
+</div>
+
+---
+
+⭐ *“Cybersecurity is not just protection — it’s precision.”*  
+📍 **Based in Morocco** | 🌐 **Open to internships in cybersecurity**  
