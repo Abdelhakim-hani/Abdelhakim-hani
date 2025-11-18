@@ -121,12 +121,15 @@ Seeking roles in **Security Operations Centers (SOC)** or **Cybersecurity Engine
 
 ## 🏆 Certifications  
 <div align="center">
-  <img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CompTIA_Network%2B-007ACC?style=for-the-badge&logo=CompTIA&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CompTIA_A%2B-4D4D4D?style=for-the-badge&logo=CompTIA&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CDSA-006400?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CCD-000080?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Cloud_Security_Foundations-4B0082?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-AWS_Introduction_to_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SQL_Injection_Attacks-800000?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Improve_IT_Security_Through_Monitoring-228B22?style=for-the-badge&logo=graphite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Red_Hat_System_Administration-CC0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Virtualize_Your_Work_Environments-2F4F4F?style=for-the-badge&logo=vmware&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Cisco_Ethical_Hacker-1A1AFF?style=for-the-badge&logo=cisco&logoColor=white"/>
 </div>
+
 
 ---
 
