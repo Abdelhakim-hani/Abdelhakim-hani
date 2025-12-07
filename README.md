@@ -1,268 +1,152 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <title>Abdelhakim Hani | Cybersecurity Engineer</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <meta name="description" content="Cybersecurity Engineer | Full Stack Developer | AI Security Enthusiast"/>
-  <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/3064/3064197.png"/>
+<!-- Profile Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hello%2C+I'm+Abdelhakim+Hani;Cybersecurity+Engineer+%7C+Full+Stack+Developer;AI+%2B+Automation+%2B+Security+Enthusiast;Hack+The+Future+%7C+Secure+The+World" alt="Typing SVG" />
+</h1>
 
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdelhakim-hani" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:han.23hani@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://tryhackme.com/p/hani23" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/TryHackMe-7B1FA2?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
+  </a>
+  &nbsp;
+  <a href="https://www.hackthebox.com/profile/YOUR_HTB_USERNAME" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/HackTheBox-101010?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Hack The Box"/>
+  </a>
+</p>
 
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-      font-family: "Poppins", sans-serif;
-    }
+---
 
-    body {
-      background: linear-gradient(135deg, #020617, #020617);
-      color: #e5e7eb;
-      line-height: 1.7;
-    }
+## 🧩 About Me  
 
-    a {
-      text-decoration: none;
-      color: #22c55e;
-      font-weight: 500;
-    }
+🎓 I’m a **Computer Science Engineer** specializing in **Cybersecurity**, passionate about  
+creating intelligent, secure systems that blend **AI, automation, and network defense**.  
+Currently completing my **engineering degree at Université Internationale de Rabat (UIR)**.  
 
-    header {
-      height: 100vh;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      text-align: center;
-      background: radial-gradient(circle at top, #022c22, #020617);
-      padding: 20px;
-    }
+💡 I love solving security challenges, designing ML-based detection systems, and contributing to open-source cybersecurity tools.  
 
-    .hero {
-      max-width: 900px;
-    }
+---
 
-    .hero h1 {
-      font-size: 2.8em;
-      margin-bottom: 10px;
-      color: #22c55e;
-    }
+## 🎯 Objective  
+Seeking roles in **Security Operations Centers (SOC)** or **Cybersecurity Engineering**, where I can contribute to:
+- 🔍 Threat Detection & Incident Response  
+- 🧰 Vulnerability Management & Network Monitoring  
+- ⚙️ Security Automation using AI  
 
-    .hero p {
-      font-size: 1.2em;
-      color: #cbd5f5;
-      margin-bottom: 25px;
-    }
+---
 
-    .badges img {
-      margin: 8px;
-    }
+## 💼 Experience & Projects  
 
-    section {
-      padding: 80px 10%;
-    }
+### 🧱 Full Stack Developer — Copag (Menara Holding)  
+**July 2024 – September 2024**  
+- Built a full web & mobile **commercial management system** using **Angular** and **Spring Boot**.  
+- Designed **UML architecture** (use case, class, sequence diagrams).  
+- Delivered a fully functional app from concept to deployment.  
 
-    h2 {
-      font-size: 2.2em;
-      margin-bottom: 30px;
-      color: #22c55e;
-      text-align: center;
-    }
+**Tech:** Angular · Spring Boot · MySQL · UML  
 
-    .about {
-      max-width: 900px;
-      margin: auto;
-      text-align: center;
-      font-size: 1.1em;
-      color: #d1d5db;
-    }
+---
 
-    .grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-      gap: 25px;
-    }
+### 🧠 Intelligent XSS Detection System  
+**Academic Project (2025)**  
+- Built a **machine learning–based XSS attack detector**.  
+- Used **TF-IDF**, **Logistic Regression**, **Random Forest**, **SVM**, and **Deep Learning (TensorFlow)** models.  
+- Enhanced detection of advanced obfuscated payloads.  
 
-    .card {
-      background: #020617;
-      padding: 25px;
-      border-radius: 12px;
-      border: 1px solid #1e293b;
-      transition: transform 0.3s;
-    }
+**Tech:** Python · TensorFlow · Scikit-learn · Pandas  
 
-    .card:hover {
-      transform: translateY(-6px);
-    }
+---
 
-    .card h3 {
-      margin-bottom: 10px;
-      color: #22c55e;
-    }
+### 🛰️ Command & Control (C2) Architecture Simulation  
+**Academic Project (2025)**  
+- Designed and simulated a **C2 architecture** with **GNS3**.  
+- Automated cyberattack scenarios via **Python/Bash scripting**.  
+- Analyzed **traffic & threat behavior** using **Wireshark**.  
 
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin-top: 30px;
-      background: #020617;
-      border-radius: 12px;
-      overflow: hidden;
-    }
+**Tools:** GNS3 · Wireshark · Python · Bash  
 
-    th, td {
-      padding: 15px;
-      border: 1px solid #1e293b;
-      text-align: left;
-    }
+---
 
-    th {
-      background: #022c22;
-      color: #22c55e;
-    }
+### 🩺 Medical Image Classification System  
+**Bachelor Final Project (2022)**  
+- Developed a CNN-based model for **detecting gastrointestinal bleeding** from **WCE images**.  
+- Combined **CNN** and **Random Forest (RF)** for medical diagnostics.  
 
-    .projects a {
-      display: block;
-      margin: 10px 0;
-      font-size: 1.05em;
-    }
+**Tech:** Python · TensorFlow · CNN · Scikit-learn  
 
-    .stats {
-      text-align: center;
-      margin-top: 40px;
-    }
+---
 
-    footer {
-      text-align: center;
-      padding: 50px 20px;
-      background: #020617;
-      border-top: 1px solid #1e293b;
-      color: #94a3b8;
-      font-size: 0.95em;
-    }
+## 🧠 Skills  
 
-    @media(max-width: 768px){
-      .hero h1 {
-        font-size: 2.1em;
-      }
-    }
-  </style>
-</head>
+| Category | Key Areas |
+|-----------|------------|
+| **Network Security** | TCP/IP, HTTP(S), DNS, DHCP, VLAN, VPN, Firewall management |
+| **Penetration Testing** | Reconnaissance, exploitation, malware analysis |
+| **System Administration** | Linux/Windows Server hardening, monitoring |
+| **Development** | Java, Python, JavaScript, TypeScript, HTML, CSS |
+| **Database** | MySQL, PostgreSQL |
+| **AI & ML** | Deep Learning, CNN, TF-IDF, Scikit-learn, TensorFlow |
 
-<body>
+---
 
-<header>
-  <div class="hero">
-    <h1>Abdelhakim Hani</h1>
-    <p>Cybersecurity Engineer · Full Stack Developer · AI & Automation Enthusiast</p>
+## 🧰 Tools  
 
-    <div class="badges">
-      <a href="https://www.linkedin.com/in/abdelhakim-hani" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white">
-      </a>
-      <a href="mailto:han.23hani@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-      </a>
-      <a href="https://tryhackme.com/p/hani23" target="_blank">
-        <img src="https://img.shields.io/badge/TryHackMe-7B1FA2?style=for-the-badge&logo=tryhackme&logoColor=white">
-      </a>
-      <a href="https://www.hackthebox.com/profile/YOUR_HTB_USERNAME" target="_blank">
-        <img src="https://img.shields.io/badge/HackTheBox-101010?style=for-the-badge&logo=hackthebox&logoColor=white">
-      </a>
-    </div>
-  </div>
-</header>
+### 🛜 Network & Security
+<div align="center">
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Suricata-EF3B2D?style=for-the-badge&logo=Suricata&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Zeek-777BB4?style=for-the-badge&logo=Zeek&logoColor=white"/>
+</div>
 
-<section>
-  <h2>About Me</h2>
-  <div class="about">
-    I am a Computer Science Engineer specializing in Cybersecurity, passionate about building secure, intelligent systems that integrate AI, automation, and network defense.  
-    Currently completing my engineering degree at Université Internationale de Rabat (UIR).  
-    I enjoy solving real-world security challenges, building detection models, and contributing to innovative cybersecurity research.
-  </div>
-</section>
+### 💻 Endpoint
+<div align="center">
+  <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?style=for-the-badge&logo=Microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Velociraptor-4B275F?style=for-the-badge&logo=Velociraptor&logoColor=white"/>
+</div>
 
-<section>
-  <h2>Career Objective</h2>
-  <div class="grid">
-    <div class="card">Threat Detection & Incident Response</div>
-    <div class="card">Vulnerability Management & Monitoring</div>
-    <div class="card">AI-Driven Security Automation</div>
-  </div>
-</section>
+### 🧾 SIEM
+<div align="center">
+  <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Elastic-005571?style=for-the-badge&logo=Elastic&logoColor=white"/>
+</div>
 
-<section>
-  <h2>Professional Experience</h2>
-  <div class="grid">
+---
 
-    <div class="card">
-      <h3>Full Stack Developer — Copag (Menara Holding)</h3>
-      <p><strong>July 2024 – September 2024</strong></p>
-      <ul>
-        <li>Developed a complete commercial management platform</li>
-        <li>Designed full UML architecture</li>
-        <li>Delivered production-ready web and mobile solution</li>
-      </ul>
-      <strong>Stack:</strong> Angular · Spring Boot · MySQL
-    </div>
+## 🏆 Certifications  
+<div align="center">
+  <img src="https://img.shields.io/badge/-Cloud_Security_Foundations-4B0082?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-AWS_Introduction_to_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SQL_Injection_Attacks-800000?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Improve_IT_Security_Through_Monitoring-228B22?style=for-the-badge&logo=graphite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Red_Hat_System_Administration-CC0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Virtualize_Your_Work_Environments-2F4F4F?style=for-the-badge&logo=vmware&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Cisco_Ethical_Hacker-1A1AFF?style=for-the-badge&logo=cisco&logoColor=white"/>
+</div>
 
-  </div>
-</section>
 
-<section>
-  <h2>Key Projects</h2>
-  <div class="grid">
+---
 
-    <div class="card">
-      <h3>Intelligent XSS Detection System</h3>
-      <p>Machine-learning based detection of advanced obfuscated XSS payloads.</p>
-    </div>
+## 📚 Projects  
+🔗 [XSS Detection System](https://github.com/Abdelhakim-Hani/XSS-Detection)  
+🔗 [C2 Architecture Simulation](https://github.com/Abdelhakim-Hani/C2-Architecture)  
+🔗 [Detection Lab (SOC & SIEM)](https://github.com/Abdelhakim-Hani/Detection-Lab)  
+🔗 [Commercial Management App (Copag)](https://github.com/Abdelhakim-Hani/Commercial-Management-App)  
 
-    <div class="card">
-      <h3>Command & Control Architecture Simulation</h3>
-      <p>Realistic C2 network design with traffic and attack monitoring.</p>
-    </div>
+---
 
-    <div class="card">
-      <h3>Medical Image Classification</h3>
-      <p>Deep learning model for GI bleeding detection using CNN and Random Forest.</p>
-    </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdelhakim-Hani&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelhakim-Hani&theme=radical" alt="GitHub Streak"/>
+</div>
 
-  </div>
-</section>
+---
 
-<section>
-  <h2>Technical Skills</h2>
-  <table>
-    <tr><th>Category</th><th>Skills</th></tr>
-    <tr><td>Network Security</td><td>TCP/IP, DNS, VLAN, VPN, Firewalls</td></tr>
-    <tr><td>Penetration Testing</td><td>Reconnaissance, Exploitation, Malware</td></tr>
-    <tr><td>System Administration</td><td>Linux & Windows Server Hardening</td></tr>
-    <tr><td>Development</td><td>Python, Java, JavaScript, TypeScript</td></tr>
-    <tr><td>AI & ML</td><td>Deep Learning, CNN, Scikit-learn, TensorFlow</td></tr>
-  </table>
-</section>
-
-<section>
-  <h2>Projects Repository</h2>
-  <div class="projects about">
-    <a href="https://github.com/Abdelhakim-Hani/XSS-Detection">XSS Detection System</a>
-    <a href="https://github.com/Abdelhakim-Hani/C2-Architecture">C2 Architecture Simulation</a>
-    <a href="https://github.com/Abdelhakim-Hani/Detection-Lab">Detection Lab (SOC & SIEM)</a>
-    <a href="https://github.com/Abdelhakim-Hani/Commercial-Management-App">Commercial Management App</a>
-  </div>
-</section>
-
-<section class="stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdelhakim-Hani&show_icons=true&theme=radical"/>
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelhakim-Hani&theme=radical"/>
-</section>
-
-<footer>
-  <p>"Cybersecurity is not just protection — it’s precision."</p>
-  <p>Morocco · Open to internships & junior cybersecurity roles</p>
-</footer>
-
-</body>
-</html>
+⭐ *“Cybersecurity is not just protection — it’s precision.”*  
+📍 **Based in Morocco** | 🌐 **Open to internships in cybersecurity**  
