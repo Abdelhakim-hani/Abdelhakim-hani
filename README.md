@@ -14,9 +14,7 @@
   <a href="https://tryhackme.com/p/hani23">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
   </a>
-  <a href="https://abdelhakim.com">
-    <img src="https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=firefox&logoColor=black"/>
-  </a>
+
 </div>
 
 <br/>
